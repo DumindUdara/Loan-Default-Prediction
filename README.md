@@ -9,7 +9,7 @@ This project was designed to evaluate my skills in data science and machine lear
 I worked with two datasets provided for this challenge:
 1. **train.csv**: This dataset contained information about 255,347 past borrowers, including a target label indicating whether each borrower defaulted on their loan.
 2. **test.csv**: This dataset included similar information about 109,435 borrowers but without the target label, which I needed to predict.
-
+.
 Both datasets included various features related to the borrowers and their loans.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
