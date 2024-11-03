@@ -12,6 +12,18 @@ I worked with two datasets provided for this challenge:
 
 Both datasets included various features related to the borrowers and their loans.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
+![Data Source](https://img.shields.io/badge/dataset-Kaggle-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
+<hr>
+
 #### Steps Taken
 
 1. **Data Exploration and Visualization**: 
